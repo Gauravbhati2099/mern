@@ -75,7 +75,7 @@ cd frontend
 npm start
 ```
 
-App will be available at `http://localhost:3000`.
+App will be available at `http://localhost:5000`.
 
 ---
 
