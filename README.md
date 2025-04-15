@@ -14,7 +14,7 @@ A modern, responsive Product Store web application built using the **MERN stack*
 
 ## 📸 Preview
 
-![Product Store Preview](./assets/preview.png)
+![Product Store Preview](./preview.png)
 
 ## 🛠️ Tech Stack
 
