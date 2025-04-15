@@ -79,22 +79,6 @@ App will be available at `http://localhost:5000`.
 
 ---
 
-## 📂 Project Structure
-
-```
-product-store/
-├── backend/
-│   ├── models/
-│   ├── routes/
-│   └── server.js
-├── frontend/
-│   ├── components/
-│   ├── pages/
-│   └── App.jsx
-└── README.md
-```
-
----
 
 ## 🙌 Acknowledgements
 
@@ -106,4 +90,4 @@ product-store/
 
 ## 📬 Contact
 
-For questions or feedback, feel free to connect on [LinkedIn](https://linkedin.com/in/your-profile).
+For questions or feedback, feel free to connect on [LinkedIn](https://linkedin.com/in/Gauravbhati2099).
